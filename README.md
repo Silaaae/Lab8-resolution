@@ -30,6 +30,14 @@ lab-mobile-security/
 ├── checklist_fin.md           # Checklist de clôture
 └── commands.log               # Journal des commandes
 ```
+**<img width="523" height="306" alt="image" src="https://github.com/user-attachments/assets/41a23584-520b-4d7a-94ff-9c48d9fc62c4" />
+**<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/ae232733-a037-40aa-9779-f396032e866c" />
+
+
+<img width="1122" height="757" alt="image" src="https://github.com/user-attachments/assets/4757b018-b6a9-445a-89eb-6332be2a3865" />
+
+<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/e66ae153-c476-4388-b9ae-a7b18f6be919" />
+
 
 ## Constats majeurs
 | ID | Description | Sévérité | OWASP |
@@ -39,3 +47,4 @@ lab-mobile-security/
 | FIND-003 | Backup Android activé | 🟡 Moyenne | MASVS-STORAGE-2 |
 | FIND-004 | Logs de débogage actifs | 🔵 Faible | MASVS-CODE |
 | FIND-005 | Absence de certificate pinning | 🔵 Faible | MASVS-NETWORK-2 |
+<img width="521" height="263" alt="image" src="https://github.com/user-attachments/assets/c6e95dca-7050-4725-b3a8-9a74fdbe540c" />
