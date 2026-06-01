@@ -1,0 +1,5 @@
+# Log des commandes exécutées - 2026-06-01
+mkdir 00-scope 01-bevigil 02-yaazhini 03-triage 04-report
+Copy-Item -Path '[chemin_apk]' -Destination '00-scope\'
+Get-FileHash -Path '00-scope\application.apk' -Algorithm SHA256
+Move-Item -Path '[téléchargement]\bevigil_export.json' -Destination '01-bevigil\bevigil_export.json'

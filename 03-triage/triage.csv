@@ -1,0 +1,6 @@
+ID,Outil source,Description,Sévérité,Référence OWASP,Statut,Notes
+FIND-001,BeVigil,API Key exposée,Haute,MASVS-STORAGE-1,À corriger,Révoquer et remplacer immédiatement
+FIND-002,BeVigil,Communication HTTP en clair,Haute,MASVS-NETWORK-1,À corriger,Forcer HTTPS
+FIND-003,Yaazhini,Backup Android activé,Moyenne,MASVS-STORAGE-2,À corriger,Désactiver allowBackup
+FIND-004,Yaazhini,Logs de débogage actifs,Faible,MASVS-CODE,À corriger,Supprimer avant production
+FIND-005,Yaazhini,Absence de certificate pinning,Faible,MASVS-NETWORK-2,Accepté,Implémenter si données critiques

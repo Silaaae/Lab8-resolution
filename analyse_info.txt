@@ -1,0 +1,10 @@
+Date: 2026-06-01
+Analyste: Nisrine Gorfti
+Cible: Domaine web autorisé (fourni par l'enseignant)
+Artefact: APK pédagogique
+Provenance: Enseignant / Projet de cours
+Hash: [À remplir si APK]
+Versions outils:
+  - BeVigil: 2.1.0
+  - Yaazhini: 1.0
+Environnement: Windows
